@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/ruslanternovy/go-health/v2"
+	"github.com/ruslanternovy/go-health"
 )
 
 type jsonStatus struct {

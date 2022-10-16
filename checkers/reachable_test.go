@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ruslanternovy/go-health/v2/checkers"
-	"github.com/ruslanternovy/go-health/v2/fakes"
-	"github.com/ruslanternovy/go-health/v2/fakes/netfakes"
+	"github.com/ruslanternovy/go-health/checkers"
+	"github.com/ruslanternovy/go-health/fakes"
+	"github.com/ruslanternovy/go-health/fakes/netfakes"
 	"github.com/stretchr/testify/assert"
 )
 
