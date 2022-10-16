@@ -6,7 +6,7 @@ import (
 	"database/sql"
 	"sync"
 
-	"github.com/ruslanternovy/go-health/v2/checkers"
+	"github.com/ruslanternovy/go-health/checkers"
 )
 
 type FakeSQLExecer struct {

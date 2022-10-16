@@ -6,9 +6,9 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/ruslanternovy/go-health/v2"
-	"github.com/ruslanternovy/go-health/v2/checkers"
-	"github.com/ruslanternovy/go-health/v2/handlers"
+	"github.com/ruslanternovy/go-health"
+	"github.com/ruslanternovy/go-health/checkers"
+	"github.com/ruslanternovy/go-health/handlers"
 )
 
 func main() {

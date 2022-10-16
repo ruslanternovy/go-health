@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ruslanternovy/go-health/v2"
-	"github.com/ruslanternovy/go-health/v2/handlers"
+	"github.com/ruslanternovy/go-health"
+	"github.com/ruslanternovy/go-health/handlers"
 )
 
 type customCheck struct{}

@@ -9,9 +9,9 @@ it at a handler func.
 
 ```golang
 import (
-    "github.com/ruslanternovy/go-health/v2"
-    "github.com/ruslanternovy/go-health/v2/checkers"
-    "github.com/ruslanternovy/go-health/v2/handlers"
+    "github.com/ruslanternovy/go-health"
+    "github.com/ruslanternovy/go-health/checkers"
+    "github.com/ruslanternovy/go-health/handlers"
 )
 
 // create and configure a new health instance

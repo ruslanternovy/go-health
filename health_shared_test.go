@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ruslanternovy/go-health/v2/fakes"
+	"github.com/ruslanternovy/go-health/fakes"
 	"github.com/ruslanternovy/go-logger"
 )
 

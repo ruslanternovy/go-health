@@ -1,4 +1,4 @@
-module github.com/ruslanternovy/go-health/v2
+module github.com/ruslanternovy/go-health
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.3.3
