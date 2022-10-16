@@ -1,9 +1,9 @@
 [![LICENSE](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
-[![Build Status](https://travis-ci.org/InVisionApp/go-health.svg?branch=master)](https://travis-ci.org/InVisionApp/go-health)
-[![Maintainability](https://api.codeclimate.com/v1/badges/973b603c7f6ad3a59d0a/maintainability)](https://codeclimate.com/github/InVisionApp/go-health/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/973b603c7f6ad3a59d0a/test_coverage)](https://codeclimate.com/github/InVisionApp/go-health/test_coverage)
-[![Go Report Card](https://goreportcard.com/badge/github.com/InVisionApp/go-health)](https://goreportcard.com/report/github.com/InVisionApp/go-health)
-[![Godocs](https://img.shields.io/badge/golang-documentation-blue.svg)](https://godoc.org/github.com/InVisionApp/go-health)
+[![Build Status](https://travis-ci.org/ruslanternovy/go-health.svg?branch=master)](https://travis-ci.org/ruslanternovy/go-health)
+[![Maintainability](https://api.codeclimate.com/v1/badges/973b603c7f6ad3a59d0a/maintainability)](https://codeclimate.com/github/ruslanternovy/go-health/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/973b603c7f6ad3a59d0a/test_coverage)](https://codeclimate.com/github/ruslanternovy/go-health/test_coverage)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ruslanternovy/go-health)](https://goreportcard.com/report/github.com/ruslanternovy/go-health)
+[![Godocs](https://img.shields.io/badge/golang-documentation-blue.svg)](https://godoc.org/github.com/ruslanternovy/go-health)
 
 <img align="right" src="images/go-health.svg" width="200">
 
@@ -61,9 +61,9 @@ For _full_ examples, look through the [examples dir](examples/)
 
 ```golang
 import (
-	health "github.com/InVisionApp/go-health/v2"
-	"github.com/InVisionApp/go-health/v2/checkers"
-	"github.com/InVisionApp/go-health/v2/handlers"
+	health "github.com/ruslanternovy/go-health/v2"
+	"github.com/ruslanternovy/go-health/v2/checkers"
+	"github.com/ruslanternovy/go-health/v2/handlers"
 )
 
 // Create a new health instance
