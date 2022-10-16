@@ -2,7 +2,7 @@
 //
 // For additional overview, documentation and contribution guidelines, refer to the project's "README.md".
 //
-// For example usage, refer to https://github.com/InVisionApp/go-health/tree/master/examples/simple-http-server.
+// For example usage, refer to https://github.com/ruslanternovy/go-health/tree/master/examples/simple-http-server.
 package health
 
 import (
@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/InVisionApp/go-logger"
+	"github.com/ruslanternovy/go-logger"
 )
 
 //go:generate counterfeiter -o ./fakes/icheckable.go . ICheckable

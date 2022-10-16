@@ -1,8 +1,8 @@
-module github.com/InVisionApp/go-health/v2
+module github.com/ruslanternovy/go-health/v2
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.3.3
-	github.com/InVisionApp/go-logger v1.0.1
+	github.com/ruslanternovy/go-logger v1.0.1
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/alicebob/gopher-json v0.0.0-20180125190556-5a6b3ba71ee6 // indirect
 	github.com/alicebob/miniredis v2.5.0+incompatible
@@ -17,6 +17,7 @@ require (
 	github.com/sirupsen/logrus v1.4.2 // indirect
 	github.com/stretchr/testify v1.4.0
 	github.com/yuin/gopher-lua v0.0.0-20190514113301-1cd887cd7036 // indirect
+	github.com/zaffka/mongodb-boltdb-mock v0.0.0-20221014194232-b4bb03fbe3a0
 )
 
 go 1.13
