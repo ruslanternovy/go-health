@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/ruslanternovy/go-health/fakes"
-	"github.com/ruslanternovy/go-logger"
+	"github.com/InVisionApp/go-logger"
 )
 
 func setupRunners(cfgs []*Config, logger log.Logger) (*Health, []*Config, error) {
