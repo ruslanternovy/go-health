@@ -2,7 +2,7 @@ module github.com/ruslanternovy/go-health
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.3.3
-	github.com/ruslanternovy/go-logger v1.0.1
+	github.com/InVisionApp/go-logger v1.0.1
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/alicebob/gopher-json v0.0.0-20180125190556-5a6b3ba71ee6 // indirect
 	github.com/alicebob/miniredis v2.5.0+incompatible
